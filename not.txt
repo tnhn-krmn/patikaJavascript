@@ -1,0 +1,1 @@
+prompt kullanıcıdan bilgi almaya yarar.
